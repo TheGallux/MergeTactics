@@ -2,7 +2,7 @@ from math import floor
 from random import randint
 import datetime
 
-from meta2 import *
+from second_meta import *
 
 def heuristique(L):
 
